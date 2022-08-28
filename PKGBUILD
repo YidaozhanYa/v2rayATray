@@ -2,7 +2,7 @@
 
 pkgname=v2raya-tray
 pkgver=1.0
-pkgrel=2
+pkgrel=1
 pkgdesc="Operate v2rayA in the system tray"
 arch=('any')
 url="https://github.com/YidaozhanYa/v2rayATray"

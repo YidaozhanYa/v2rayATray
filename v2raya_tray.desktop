@@ -10,5 +10,5 @@ Comment[zh_CN]=在系统托盘中操作 v2rayA
 Comment[zh_TW]=在系統托盤中操作 v2rayA
 Categories=Network;
 Keywords=Internet;VPN;Proxy;v2ray;v2raya
-Exec=v2ray_tray %u
+Exec=/usr/bin/v2raya_tray %u
 Icon=v2raya
