@@ -1,0 +1,14 @@
+[Desktop Entry]
+Version=1.0
+Terminal=false
+Type=Application
+Name=v2rayA Tray
+Name[zh_CN]=v2rayA 系统托盘
+Name[zh_TW]=v2rayA 系統托盤
+Comment=Operate v2rayA in the system tray
+Comment[zh_CN]=在系统托盘中操作 v2rayA
+Comment[zh_TW]=在系統托盤中操作 v2rayA
+Categories=Network;
+Keywords=Internet;VPN;Proxy;v2ray;v2raya
+Exec=v2ray_tray %u
+Icon=v2raya
