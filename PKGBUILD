@@ -12,6 +12,6 @@ source=("git+https://github.com/YidaozhanYa/v2rayATray")
 sha512sums=('SKIP')
 
 package() {
-  cd "${pkgname}"
+  cd "v2rayATray"
   make DESTDIR="$pkgdir" install
 }
