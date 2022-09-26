@@ -2,12 +2,12 @@
 
 pkgname=v2raya-tray
 pkgver=1.0
-pkgrel=1
+pkgrel=2
 pkgdesc="Operate v2rayA in the system tray"
 arch=('any')
 url="https://github.com/YidaozhanYa/v2rayATray"
 license=('MIT')
-depends=('python' 'python-pyqt5' 'v2raya')
+depends=('python' 'python-pyqt5' 'v2raya' 'python-requests')
 source=("git+https://github.com/YidaozhanYa/v2rayATray")
 sha512sums=('SKIP')
 
